@@ -1,9 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "filmler": [
+    { "id": 1, "title": "zodiac", "author": "fincher" },
+    { "id": 2, "title": "seven", "author": "fincher" },
+    { "id": 3, "title": "pulp fiction", "author": "tarantino" },
+    { "id": 4, "title": "memento", "author": "nolan" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
 }
